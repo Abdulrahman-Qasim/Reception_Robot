@@ -1,4 +1,4 @@
 # Reception_Robot
-Reception robot assembled
-A new head design
-LED Light
+Reception robot assembled. 
+ A new head design. 
+ LED Light
